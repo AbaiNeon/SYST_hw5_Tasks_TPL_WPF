@@ -1,0 +1,15 @@
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\bin\Debug\SYST_hw5_Task_WPF.exe.config
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\bin\Debug\SYST_hw5_Task_WPF.exe
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\bin\Debug\SYST_hw5_Task_WPF.pdb
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\App.g.cs
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF_MarkupCompile.cache
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF_MarkupCompile.lref
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\MainWindow.baml
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.g.resources
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.Properties.Resources.resources
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.csproj.GenerateResource.cache
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.exe
+C:\Users\Abay-PC\source\repos\SYST_hw5_Task_WPF\SYST_hw5_Task_WPF\obj\Debug\SYST_hw5_Task_WPF.pdb

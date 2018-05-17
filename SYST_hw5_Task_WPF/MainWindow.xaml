@@ -1,0 +1,34 @@
+﻿<Window
+    x:Class="SYST_hw5_Task_WPF.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:SYST_hw5_Task_WPF"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="338.517"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <Button
+            Name="btnStartTask"
+            Margin="123,96,133,289"
+            Click="btnStartTaskClick"
+            Content="Start Task" />
+        <Button
+            Name="btnStopTask"
+            Margin="123,164,133,221"
+            Click="btnStopTaskClick"
+            Content="Stop Task" />
+        <TextBlock
+            Name="txtBlck"
+            Width="82"
+            Height="33"
+            Margin="10,376,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text=""
+            TextWrapping="Wrap" />
+
+    </Grid>
+</Window>
